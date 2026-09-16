@@ -10,8 +10,10 @@ Check off each box as you complete it. Stop anytime; nothing here needs to happe
 
 ## Step 0 — Confirm Ruby is ready
 
-- [ ] Run `ruby -v` (any modern Ruby works)
-- [ ] Run `ruby -e "require 'drb/drb'; puts 'ok'"` — should print `ok`
+- [x] Run `ruby -v` (any modern Ruby works)
+- [x] Run `ruby -e "require 'drb/drb'; puts 'ok'"` — should print `ok`
+
+Note: I did end up having to run `gem install drb`
 
 ## Step 1 — The concept (read before writing code)
 
